@@ -1,0 +1,17 @@
+{
+  "name": "merkle_tree",
+  "version": "1.0.0",
+  "description": "to create merkle tree and check if account is in tree or not",
+  "dependencies": {
+    "merkletreejs": "^0.2.27",
+    "keccak256": "^1.0.6"
+  },
+  "scripts": {
+    "merkle": "node merkle.js"
+  },
+  "keywords": [
+    "merkletree"
+  ],
+  "author": "FazelPejmanfar",
+  "license": "MIT"
+}
